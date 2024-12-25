@@ -2,7 +2,8 @@
 Very simple C++ program to check if your "autoexec.cfg" has any conflict line (same command, same button, same bind, same alias)
 
 # How to use
-- Download EXE File from Release (you can scan virus for your self).
+- Download EXE File from Release
+- Scan virus, incase you want. Note that the the result can be false positive, as I didnt sign the file, just compile using TDM-GCC 9.2.0 32bit.
 
 or
 - Compile yourself using cpp file.
