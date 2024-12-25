@@ -35,6 +35,7 @@ int main() {
 	
 	if (!input.is_open()) {
 		cout << "Cant Open!" << endl;
+		system("pause");
 		return 0;
 	}
 	
